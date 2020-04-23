@@ -1,2 +1,2 @@
 Hello! It's nice to meet you!
-Now's the time to self reflect during this corona virus crisis.
+Just learning the basics of Git and Github for an MIT Course
